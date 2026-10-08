@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:f778ba&height=180&section=header&text=Aditya%20Narayan%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
@@ -67,7 +66,7 @@ A hands-on challenge to build 50 small projects (forms, UI components, mini apps
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hackerAcom&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" height="165px" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hackerAcom&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStamp=58A6FF&sideLabels=C9D1D9&currLabel=FF7B72&sideNums=C9D1D9&dates=8B949E" height="165px" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=hackerAcom&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStamp=58A6FF&sideLabels=C9D1D9&currLabel=FF7B72&sideNums=C9D1D9&dates=8B949E" height="165px" alt="streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerAcom&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165px" alt="top languages"/>
   <br/><br/>

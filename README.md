@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/hackerAcom/hackerAcom/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 <div align="center">
 
